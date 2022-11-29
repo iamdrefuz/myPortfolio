@@ -1332,3 +1332,16 @@ footer .social-media{
     }
 
 }
+
+::-webkit-scrollbar{
+    color: #fff;
+    background-color:var(--bg-color-2) ;
+    width: 10px;
+    
+}
+::-webkit-scrollbar-thumb{
+    background-color:var(--bg-color-3);
+    border-radius: 5px;
+    box-shadow:rgba(0, 0, 0, 0.05);
+    padding: 0 3px;
+}

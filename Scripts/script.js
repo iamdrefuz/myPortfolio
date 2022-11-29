@@ -14,17 +14,17 @@ let sr = ScrollReveal({
 )
  ScrollReveal({ reset:false});    //scroll animate reset false
 sr.reveal(".showcase-info", {delay:600})
-sr.reveal(".showcase-img", {origin:"top",delay:700})
-sr.reveal(".about-info", {origin:"top",delay:700})
-sr.reveal(".about-grid", {origin:"left",delay:600})
-sr.reveal(".card-1, .srv-1", {origin:"top",delay:700,distance:"100px"})
-sr.reveal(".card-2, .srv-2", {origin:"right",delay:700,distance:"100px"})
-sr.reveal(".card-3, .srv-3", {origin:"left",delay:700,distance:"100px"})
-sr.reveal(".card-4, .srv-4", {origin:"button",delay:700,distance:"100px"})
-sr.reveal(".box-heading", {origin:"left",delay:900,distance:"100px"})
-sr.reveal(".services-info ", {origin:"bottom",delay:900,distance:"100px"})
-sr.reveal(".contact-info ", {origin:"bottom",delay:800,distance:"100px"})
-sr.reveal(".sub-info ", {origin:"right",delay:800,distance:"100px"})
+sr.reveal(".showcase-img", {origin:"top",delay:500})
+sr.reveal(".about-info", {origin:"top",delay:300})
+sr.reveal(".about-grid", {origin:"left",delay:300})
+sr.reveal(".card-1, .srv-1", {origin:"top",delay:300,distance:"100px"})
+sr.reveal(".card-2, .srv-2", {origin:"right",delay:300,distance:"100px"})
+sr.reveal(".card-3, .srv-3", {origin:"left",delay:300,distance:"100px"})
+sr.reveal(".card-4, .srv-4", {origin:"button",delay:300,distance:"100px"})
+sr.reveal(".box-heading", {origin:"left",delay:300,distance:"100px"})
+sr.reveal(".services-info ", {origin:"bottom",delay:300,distance:"100px"})
+sr.reveal(".contact-info ", {origin:"bottom",delay:300,distance:"100px"})
+sr.reveal(".sub-info ", {origin:"right",delay:300,distance:"100px"})
 
 
 
