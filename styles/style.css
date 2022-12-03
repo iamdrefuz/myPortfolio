@@ -273,7 +273,7 @@ body.open .hamburger .bar:last-child{
 .heading{
     color: var(--heading-color);
     font-size: 3rem;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
     line-height: 3.5rem;
     transition: .3s;
@@ -1334,7 +1334,7 @@ footer .social-media{
 }
 
 ::-webkit-scrollbar{
-    color: #fff;
+    color: var(--bg-color-2);
     background-color:var(--bg-color-2) ;
     width: 10px;
     
